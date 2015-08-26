@@ -1,7 +1,7 @@
-package org.gcc.mygit;
+package org.gcc.logutil;
 
 
-import org.gcc.mygit.utils.SystemUtil;
+import org.gcc.logutil.utils.SystemUtil;
 
 public final class LogUtils {
 

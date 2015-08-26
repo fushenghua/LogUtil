@@ -1,4 +1,4 @@
-package org.gcc.mygit;
+package org.gcc.logutil;
 
 
 public enum LogType {

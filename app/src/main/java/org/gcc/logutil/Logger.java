@@ -1,4 +1,4 @@
-package org.gcc.mygit;
+package org.gcc.logutil;
 
 import android.app.AlertDialog;
 import android.content.ClipboardManager;

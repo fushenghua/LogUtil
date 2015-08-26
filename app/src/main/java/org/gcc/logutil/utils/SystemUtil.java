@@ -1,4 +1,4 @@
-package org.gcc.mygit.utils;
+package org.gcc.logutil.utils;
 
 import java.lang.reflect.Field;
 

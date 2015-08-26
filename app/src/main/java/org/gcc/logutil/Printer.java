@@ -1,4 +1,4 @@
-package org.gcc.mygit;
+package org.gcc.logutil;
 
 /**
  * Created by pengwei08 on 2015/7/20.
